@@ -1,0 +1,14 @@
+Config: {
+
+Header: {
+HTTP/2.0 200
+Server: HttpServer/1.0
+}
+
+Root: {
+
+Path: /
+
+}
+
+}
